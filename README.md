@@ -16,11 +16,11 @@ A modern, accessible UI component library built with React 19, TypeScript, and T
 ## Installation
 
 ```bash
-npm install @kel/ui-components
+npm install kel-ui-component
 # or
-yarn add @kel/ui-components
+yarn add kel-ui-components
 # or
-pnpm add @kel/ui-components
+pnpm add kel-ui-components
 ```
 
 ### Peer Dependencies
@@ -267,10 +267,6 @@ All components are built with customization in mind:
 - **Variant system** - Built-in variants for different use cases
 - **CSS variables** - Customize colors and spacing
 - **Composition** - Combine components for complex UIs
-
-## Examples
-
-For comprehensive examples and usage patterns, see [EXAMPLES.md](./EXAMPLES.md).
 
 ## Package Information
 
