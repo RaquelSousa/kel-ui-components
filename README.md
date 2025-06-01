@@ -295,15 +295,3 @@ npm run release:dry
 # For actual publishing
 npm run release
 ```
-
-## Contributing
-
-We welcome contributions! Please see our contributing guidelines for more details.
-
-## License
-
-MIT License - see [LICENSE](./LICENSE) for details.
-
-## Changelog
-
-See [CHANGELOG.md](./CHANGELOG.md) for version history and updates.
