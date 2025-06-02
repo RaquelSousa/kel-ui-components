@@ -1,6 +1,6 @@
 {
   "name": "kel-ui-components",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "type": "module",
   "description": "A modern, accessible UI component library built with React, TypeScript, and Tailwind CSS",
   "main": "dist/index.js",
@@ -9,9 +9,7 @@
   "files": [
     "dist",
     "README.md",
-    "CHANGELOG.md",
-    "LICENSE",
-    "EXAMPLES.md"
+    "LICENSE"
   ],
   "exports": {
     ".": {
@@ -45,6 +43,7 @@
     "components",
     "tailwindcss",
     "radix-ui",
+    "shadcn",
     "design-system",
     "framer-motion",
     "accessible",
@@ -55,20 +54,20 @@
   ],
   "author": {
     "name": "Kel",
-    "email": "your-email@example.com",
-    "url": "https://your-portfolio-url.com"
+    "email": "raquel.sousa.wt@gmail.com",
+    "url": "https://raquel-portfolio-20.vercel.app/"
   },
   "license": "MIT",
   "publishConfig": {
     "access": "public"
   },
-  "homepage": "https://github.com/username/kel-ui-components#readme",
+  "homepage": "https://github.com/RaquelSousa/kel-ui-components#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/username/kel-ui-components.git"
+    "url": "git+https://github.com/RaquelSousa/kel-ui-components.git"
   },
   "bugs": {
-    "url": "https://github.com/username/kel-ui-components/issues"
+    "url": "https://github.com/RaquelSousa/kel-ui-components/issues"
   },
   "engines": {
     "node": ">=18.0.0",
